@@ -145,7 +145,7 @@ nav ul li a:active {
   background-image: url(imgPrincipal/banner.png); /* Color de fondo */
   padding: 10px 20px; /* Espaciado interno */
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
 }
 
