@@ -1,13 +1,11 @@
 .bienvenida-section {
     text-align: center;
-    padding: 40px 20px;
-    background-color: #f0f0f0;
-  }
-  
-  .bienvenida-section img {
-    max-width: 100%;
-    height: auto;
-    margin: 20px 0;
+    padding: 170px 20px;
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/season-advertising-peach-books-children-simple-ink-powerpoint-background_c436e52d01__960_540.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
   }
   
   .bienvenida-section .boton-explorar {
@@ -26,8 +24,12 @@
   
   .intro-categorias {
     text-align: center;
-    padding: 40px 20px;
-    background-color: #e8e8e8;
+    padding: 140px 20px;
+    background-image: url(https://img-bsy.txrpic.com/preview/element/00/01/26/58/E-1265808-DA7B70BF.jpg?imageMogr2/quality/90/thumbnail/!800x%3E);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
   }
   
   .intro-categorias .contenedor-categorias {
@@ -39,12 +41,6 @@
   .intro-categorias .categoria {
     margin: 10px;
     text-align: center;
-  }
-  
-  .intro-categorias .categoria img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
   }
   
   .intro-categorias .categoria h3 {
